@@ -1,9 +1,15 @@
 # tern-jug
 
-Tern plugin used for [tern.java](https://github.com/angelozerr/tern.java) JUG demo. See [docs](https://github.com/angelozerr/tern.java/tree/master/docs) for the presentation.
+Tern plugin used for [tern.java](https://github.com/angelozerr/tern.java) demo at [Paris JUG](http://www.parisjug.org/xwiki/bin/view/Meeting/20141118). See [docs](https://github.com/angelozerr/tern.java/tree/master/docs) for the presentation.
 
-At the end of the demo, we can manage a JUG Factory object completion like this : 
+This demo will explain step by step how to create a JUG tern plugin  : 
 
-![Test JUG step3](https://github.com/angelozerr/tern-jug/wiki/images/TestJUGStep3.png)
+ * to manage classic object creation with `new` operator and benefit with completion : 
 
-See [Wiki](https://github.com/angelozerr/tern-jug/wiki) for explanation how to create JUG tern plugin.
+![Test JUG new opertor](https://github.com/angelozerr/tern-jug/wiki/images/TestJUGOverview1.png)
+
+ * to manage object creation with `a factory` and benefit with completion  :
+
+![Test JUG factory](https://github.com/angelozerr/tern-jug/wiki/images/TestJUGOverview2.png)
+
+See [Wiki](https://github.com/angelozerr/tern-jug/wiki) for more explanation how to create this JUG tern plugin.
